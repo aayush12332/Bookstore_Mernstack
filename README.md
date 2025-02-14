@@ -12,7 +12,7 @@ Database: MongoDB
 
 Instructions to Run:
 
-Clone the repository: git clone repo_url cd bookStoreApp
+Clone the repository: git clone repo_url cd Bookstore
 
 Install dependencies:
 

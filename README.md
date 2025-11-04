@@ -28,4 +28,4 @@ Backend: cd Backend npm start
 
 Frontend: cd Frontend npm run dev
 
-Access the application at http://localhost:517
+Access the application at http://localhost:5174
